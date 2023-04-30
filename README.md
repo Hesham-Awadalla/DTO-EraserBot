@@ -1,1 +1,1 @@
-# DTO-EraserBot 🔎🧹🗑️
+# DTO-EraserBot
