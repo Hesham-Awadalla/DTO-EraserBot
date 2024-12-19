@@ -1,2 +1,2 @@
 # DTO-EraserBot
-![000187](https://github.com/user-attachments/assets/c6532799-a0ca-4c83-bb6f-868c84e15808)
+![image](https://github.com/user-attachments/assets/45fbc958-f904-4f6d-9b78-55051923bdeb)
